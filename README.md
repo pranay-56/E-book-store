@@ -1,14 +1,24 @@
 ﻿# MERN E-Commerce website
+ 
  e-Book Store Fullstack Project
+ 
 #Overview
+
 This is a fullstack project for an EBook store, built with , MongoDB, React, Expressjs, Node.JS, . The project allows users to browse, purchase, and download eBooks.
 
+
 #Features
+
 •User authentication and authorization
+
 •eBook catalog with search and filtering
+
 •Add and checkout functionality
+
 •Admin functionality
+
 •eBook management
+
 •Getting Started
 
 
