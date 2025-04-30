@@ -13,10 +13,15 @@ This is a fullstack project for an EBook store, built with , MongoDB, React, Exp
 
 
 #Prerequisites (MERN)
+
 •Node.js (for backend)
+
 •React (for frontend)
+
 •MongoDB (for database)
+
 •Expressjs (for backend API and routing)
+
 •Bootstrap5
 
 ![Course Thumbnail](/thumb.png)
