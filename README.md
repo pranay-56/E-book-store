@@ -35,7 +35,7 @@ This is a fullstack project for an EBook store, built with , MongoDB, React, Exp
 •Bootstrap5
 
 # Clone the repository
-
+https://github.com/pranay-56/E-book-store.git
 
 # Install dependencies
 cd ebook-store
