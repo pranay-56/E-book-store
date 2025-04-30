@@ -34,4 +34,19 @@ This is a fullstack project for an EBook store, built with , MongoDB, React, Exp
 
 •Bootstrap5
 
+# Clone the repository
+
+
+# Install dependencies
+cd ebook-store
+npm install
+
+# Start the backend server
+cd backend
+node server.js
+
+# Start the frontend server
+cd frontend
+npm start
+
 ![Course Thumbnail](/thumb.png)
